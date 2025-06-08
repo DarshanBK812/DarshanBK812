@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi! I'm Darshan, a passionate and self-driven aspiring full-stack developer. I enjoy building backend systems using Java, Spring Boot, and MySQL, and I've worked on projects like a Theater Management System and a Login & Registration System. I'm always eager to learn new technologies, solve real-world problems through code, and build meaningful applications. Outside of tech, I love coding games and going on treks.
+Java Full Stack Developer with strong OOPs and DSA foundation, proficient in Spring Boot, Hibernate, MySQL, JavaScript, HTML, CSS, and SQL Passionate about solving complex problems, optimizing performance, and delivering scalable, maintainable code Quick learner adept at agile methodologies, collaborative teamwork, and continuous improvement Dedicated to leveraging technical expertise and innovative ideas to drive impactful software solutions
 
 
 ## 🌐 Socials:
