@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Full Stack Developer with strong OOPs and DSA foundation, proficient in Spring Boot, Hibernate, MySQL, JavaScript, HTML, CSS, and SQL Passionate about solving complex problems, optimizing performance, and delivering scalable, maintainable code Quick learner adept at agile methodologies, collaborative teamwork, and continuous improvement Dedicated to leveraging technical expertise and innovative ideas to drive impactful software solutions
+Full Stack Developer with strong OOPs and DSA foundation, proficient in Spring Boot, Hibernate, MySQL, JavaScript, HTML, CSS, and SQL Passionate about solving complex problems, optimizing performance, and delivering scalable, maintainable code Quick learner adept at agile methodologies, collaborative teamwork, and continuous improvement Dedicated to leveraging technical expertise and innovative ideas to drive impactful software solutions
 
 
 ## 🌐 Socials:
