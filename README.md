@@ -1,15 +1,18 @@
 💫 About Me  
-**Aspiring Full-Stack Developer** with a solid foundation in OOP & DSA, eager to build scalable, maintainable applications.
+**Entry-Level Full-Stack Developer** passionate about building scalable applications and delivering clean, maintainable code.
 
-- 🔧 **Tech Skills:** Java · Spring Boot · Hibernate · MySQL · React · JavaScript · HTML · CSS · SQL  
+- 🔧 **Tech Stack:** Java · Spring Boot · Hibernate · MySQL · REST · React · JavaScript · HTML · CSS · SQL  
+- 💡 **Strengths:** Solid OOP & DSA fundamentals; quick to learn new frameworks and tools  
 - 🚀 **Key Projects:**  
-  - **Theater Management System** – Spring Boot REST APIs, JPA/Hibernate & MySQL  
-  - **Online Food Delivery App** – CRUD services, one-to-many JPA mappings & Postman testing  
-  - **Login & Registration System** – JSP/Servlets, JDBC & MVC pattern on Tomcat  
-- 🤝 **Experience:** Completed Java Full-Stack internship at QSpiders; practiced Agile workflows & Git version control  
-- 🎯 **Learning Path:** Currently diving into Docker, Kubernetes & microservices on Udemy  
+  - **Theater Management System** (Spring Boot, JPA/Hibernate, MySQL)  
+  - **Online Food Delivery App** (Spring Data JPA, REST APIs, Postman)  
+- 🤝 **Collaboration:** Experience with Agile workflows, Git version control, and CI/CD basics  
+- 🎯 **Learning Focus:** Currently advancing skills in Docker, Kubernetes, microservices & AWS  
 
-📫 Let’s connect! [GitHub](https://github.com/DarshanBK812) · [LinkedIn](https://www.linkedin.com/in/darshan-b-k-a7b501298)
+📫 **Connect with me:**  
+- GitHub: https://github.com/DarshanBK812  
+- LinkedIn: https://www.linkedin.com/in/darshan-b-k-a7b501298
+
 
 
 
