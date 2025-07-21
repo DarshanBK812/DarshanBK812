@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Darshan B K! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=🚀+Java+Full-Stack+Developer+%7C+Microservices+Enthusiast;☁️+Cloud-native+%28AWS+%7C+GCP%29;🛠️+DSA+Problems+%26+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&width=435&lines=🚀%20Java%20Full-Stack%20Developer%20%7C%20Microservices%20Enthusiast;☁️%20Cloud-native%20(AWS%20%7C%20GCP);🛠️%20DSA%20Problems%20%26%20Design%20Patterns" alt="Typing SVG" />
 </p>
 
 <p align="center">
