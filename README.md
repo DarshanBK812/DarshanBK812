@@ -1,29 +1,31 @@
 <h1 align="center">Hi, I’m Darshan B K! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&width=435&lines=🚀%20Java%20Full-Stack%20Developer%20%7C%20Microservices%20Enthusiast;☁️%20Cloud-native%20(AWS%20%7C%20GCP);🛠️%20DSA%20Problems%20%26%20Design%20Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&width=500&lines=🚀%20Java%20Full-Stack%20Developer;⚛️%20ReactJS%20&%20Angular;☁️%20Cloud-native%20(AWS%20|%20GCP);🛠️%20DSA%20&%20Design%20Patterns" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>📍 Based in India</strong>
+  <strong>📍 Based in India</strong> •  
+  <a href="https://www.linkedin.com/in/darshan-b-k-a7b501298/" target="_blank">LinkedIn</a> •  
+  <a href="mailto:darshanbk812@gmail.com">darshanbk812@gmail.com</a>
 </p>
 
-I’m a passionate Java developer, specializing in crafting robust REST APIs with Spring Boot and securing them with Spring Security, while also creating interactive UIs with ReactJS. Here you can explore my projects and highlights. 😁
+---
+
+## 👨‍💻 About Me
+
+I’m a passionate Java Full-Stack Developer who builds scalable microservices with Spring Boot, secures them with Spring Security & JWT, and crafts dynamic UIs using ReactJS and Angular. Currently, I’m focused on cloud-native deployments on AWS & GCP with fully automated CI/CD pipelines.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java 8+ • Spring Boot • REST APIs • Microservices • Spring Security & JWT • Hibernate • JPA • MySQL • GraphQL • Kafka
-
-**Frontend:** ReactJS • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+)
-
-**DevOps & Cloud:** Docker • Kubernetes • AWS • GCP • GitHub Actions • Jenkins • ArgoCD • Postman
-
-**Other:** Data Structures & Algorithms • Design Patterns • API Gateway • Eureka Service Discovery
+- **Backend:** Java 8+ • Spring Boot • Spring Security & JWT • Hibernate / JPA • REST • GraphQL • Kafka  
+- **Frontend:** React JS • Angular • HTML5 • CSS3 • JavaScript (ES6+)  
+- **DevOps & Cloud:** Docker • Kubernetes (GKE) • AWS • GCP • GitHub Actions • Jenkins • ArgoCD • Postman  
+- **Architecture & Patterns:** Microservices • API Gateway • Eureka Service Discovery • Design Patterns • DSA  
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -34,10 +36,10 @@ I’m a passionate Java developer, specializing in crafting robust REST APIs wit
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshan-b-k-a7b501298/" target="_blank">LinkedIn</a> •
-  <a href="mailto:darshan@example.com">Email</a> •
-  <a href="https://twitter.com/your_twitter">Twitter</a>
+  <a href="https://www.linkedin.com/in/darshan-b-k-a7b501298/" target="_blank">LinkedIn</a> •  
+  <a href="mailto:darshanbk812@gmail.com">Email</a> •  
+  <a href="https://github.com/DarshanBK812">GitHub</a>
 </p>
