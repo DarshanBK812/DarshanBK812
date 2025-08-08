@@ -24,15 +24,6 @@ I’m a passionate Java developer, specializing in crafting robust REST APIs wit
 
 ---
 
-## 🌟 Popular Repositories
-
-* 🔹 **[microservices-system]([https://github.com/DarshanBK812/microservices-system](https://github.com/DarshanBK812/Microservices))**: Decoupled Order, Payment & Search services with Eureka, Zuul, Circuit Breaker, and JWT auth.
-* 🔹 **[java-master-kit](https://github.com/DarshanBK812/java-master-kit)**: Comprehensive Java concepts, design patterns, multithreading, and best practices.
-* 🔹 **[online-food-delivery-system](https://github.com/DarshanBK812/online-food-delivery-system)**: Monolith-to-microservices refactor, layered Spring Boot, JPA mappings, custom APIs, and Postman tests.
-* 🔹 **[dsa-problems](https://github.com/DarshanBK812/dsa-problems)**: 100+ Java DSA challenges with optimized solutions.
-* 🔹 **[java-design-patterns-hub](https://github.com/DarshanBK812/java-design-patterns-hub)**: Practical design pattern implementations with clear examples.
-
----
 
 ## 📊 GitHub Stats
 
